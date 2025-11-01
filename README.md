@@ -2,13 +2,13 @@
 
 My name is Zaina, and I am a tech student over at NAIT. I am currently studying **Web Design and Development**. 
 
-I enjoy designing UI/UX as well as working on the FrontEnd Development. I'm currently learning how to work on the Backend with PHP and using a CMS like Wordpress. 
+:computer: I enjoy designing UI/UX as well as working on the FrontEnd Development. I'm currently learning how to work on the Backend with PHP and using a CMS like Wordpress. 
 
 At the present, I'm working on a project for a charity company. 
 
 You can reach me at my email address: **zainaamohamed12@gmail.com**. I look forward to speaking with you! 
 
-*Fun Fact:* When I was younger, I was able to ride a unicycle. Unsure if that would still be the case now, but hey, never say never!
+:bike: *Fun Fact:* When I was younger, I was able to ride a unicycle. Unsure if that would still be the case now, but hey, never say never!
 
 <!--
 **zmohamed9/zmohamed9** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
