@@ -4,7 +4,7 @@ My name is Zaina, and I am a tech student over at NAIT. I am currently studying 
 
 :computer: I enjoy designing UI/UX as well as working on the FrontEnd Development. I'm currently learning how to work on the Backend with PHP and using a CMS like Wordpress. 
 
-At the present, I'm working on a project for a charity company. 
+At the present, I'm working on a project for a charity organization. 
 
 You can reach me at my email address: **zainaamohamed12@gmail.com**. I look forward to speaking with you! 
 
